@@ -4,4 +4,4 @@ group:
     Bhuvana-Sri/DestDemo@main
   files:
     - source: temp.txt
-      dest: temp.txt
+      dest: root/temp.txt
