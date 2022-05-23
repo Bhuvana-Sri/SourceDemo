@@ -1,0 +1,6 @@
+repos: |
+    Bhuvana-Sri/SourceDemo
+    Bhuvana-Sri/DestDemo
+  files: 
+    - source: temp.txt
+      dest: root/temp.txt
